@@ -1,0 +1,20 @@
+# append a semicolon at the end of each line; using 'A;' and '.' commands.
+
+var foo = 1
+var bar = 'a'
+var foobar = foo + bar
+var foo = 1
+var bar = 'a'
+var foobar = foo + bar
+var foo = 1
+var bar = 'a'
+var foobar = foo + bar
+var foo = 1
+var bar = 'a'
+var foobar = foo + bar
+var foo = 1
+var bar = 'a'
+var foobar = foo + bar
+var foo = 1
+var bar = 'a'
+var foobar = foo + bar

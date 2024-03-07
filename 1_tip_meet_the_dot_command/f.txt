@@ -1,0 +1,6 @@
+# perform the 'x', 'dd', and '>G' commands on lines using the '.' to repeat them.
+
+Line one
+Line two
+Line three
+Line four

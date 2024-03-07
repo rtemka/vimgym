@@ -1,0 +1,6 @@
+# pad each + sign with spaces to make it look like this:
+# var foo = "method(" + argument1 + "," + argument2 + ")";
+#
+# Use the 'f+' to find, 's␣+␣<Esc>' to substitute, ';' to find next and repeate with '.' command.
+
+var foo = "method("+argument1+","+argument2+","+argument2+"),"+argument2+"),"+argument2+"))";
